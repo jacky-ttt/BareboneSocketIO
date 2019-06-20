@@ -19,3 +19,6 @@ pip install -r requirements.txt
 python app.py
 ```
 *I use PyCharm to open the python project
+
+### In android
+change `SERVER_URL = "http://192.168.11.100:3000"` to the ip you server computer is
