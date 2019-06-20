@@ -5,6 +5,8 @@ a repository includes
 * nodejs socketIO server which hosts a website as client
 * python socketIO server which hosts a website as client
 
+I wrote a [medium article](https://medium.com/@jacky_ttt/socket-io-server-and-client-473148fd6826) about it.
+
 ### To start nodejs server
 ```
 npm install
